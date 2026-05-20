@@ -19,4 +19,4 @@ pandas>=1.5.0
 numpy>=1.21.0
 matplotlib>=3.5.0
 seaborn>=0.12.0
-networkx>=2.8.0  # для визуализации графов
+networkx>=2.8.0  
